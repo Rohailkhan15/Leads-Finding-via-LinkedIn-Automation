@@ -54,7 +54,21 @@ load_dotenv()
 
 # Google dorks to run, in sequence. Add / remove / reword as needed.
 SEARCH_QUERIES = [
-    'site:linkedin.com/in "owner" "online store"',
+    'site:linkedin.com/in "owner" "online store" Pakistan', 
+    'site:linkedin.com/in "owner" "small business" "shop" Pakistan',
+    'site:linkedin.com/in "owner" "e-commerce shop" Pakistan',
+    'site:linkedin.com/in "owner" "e-commerce store" Pakistan',
+    'site:linkedin.com/in "founder" "online store" Pakistan',
+    'site:linkedin.com/in "started my own online store" Pakistan',
+    'site:linkedin.com/in "founder" "e-commerce shop" Pakistan',
+    'site:linkedin.com/in "owner" "online store" India',
+    'site:linkedin.com/in "owner" "small business" "shop" India',
+    'site:linkedin.com/in "owner" "e-commerce shop" India',
+    'site:linkedin.com/in "owner" "e-commerce store" India',
+    'site:linkedin.com/in "founder" "online store" India',
+    'site:linkedin.com/in "started my own online store" India',
+    'site:linkedin.com/in "founder" "e-commerce shop" India',
+    'site:linkedin.com/in "owner" "online store"', 
     'site:linkedin.com/in "owner" "small business" "shop"',
     'site:linkedin.com/in "owner" "e-commerce shop"',
     'site:linkedin.com/in "owner" "e-commerce store"',
